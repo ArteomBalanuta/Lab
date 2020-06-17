@@ -1,2 +1,2 @@
 # Lab
-general patterns
+tips
